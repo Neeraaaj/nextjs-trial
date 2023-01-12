@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Script from 'next/script'
 import styles from '../styles/Home.module.css'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {animate, motion} from 'framer-motion'
 import AnimatedTextCharacter from "../component/animationtext";
 import {useForm} from 'react-hook-form'
